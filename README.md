@@ -1,4 +1,4 @@
-# Solution
+# Solution
 
 The main informations are inside:
 - `src/index.js`
